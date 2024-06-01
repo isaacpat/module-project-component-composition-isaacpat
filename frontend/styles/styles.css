@@ -15,8 +15,23 @@ body {
   align-items: center;
 }
 
-h1, h2 {
-  color: #93005a;
+h1{
+  color: #f30707;
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+h2{
+color: #93005a;
+font-size: 2rem;
+margin-bottom: 1rem;
+}
+
+p{
+  font-size: 1rem;
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+
 }
 
 #root {
